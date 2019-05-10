@@ -1,0 +1,6 @@
+server:
+  port: 9876
+  servlet.context-path: /es
+logging:
+  level:
+    root: info
